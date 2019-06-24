@@ -1,0 +1,11 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "main": "",
+  "scripts": {
+    "git":"python3 git.py"
+  },
+  "repository": "https://github.com/btcalory/app.git",
+  "author": "TigerZH <only_tigerhu@163.com>",
+  "license": "MIT"
+}
